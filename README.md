@@ -1,5 +1,5 @@
 # VIDEOHUB - Responsive React Web App Frontend Design with Chakra UI
-## cheak out -->>  https://videohub-lyart.vercel.app/
+## cheak out --->>  https://videohub-lyart.vercel.app/
 Welcome to the VIDEOHUB GitHub repository! This repository hosts the frontend design source code for a fully responsive web application built using React and styled with Chakra UI. VIDEOHUB is designed to provide users with an immersive and visually appealing platform to explore and enjoy a diverse range of videos.
 ## Preview
 ![React-App (1)](https://github.com/karan79k/VideoHub-UI/assets/123332277/eca8a1e2-e17d-4346-acfb-d9fcdea4361d)
